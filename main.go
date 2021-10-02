@@ -11,7 +11,7 @@ func main() {
 		<body style="background-color: #210C62; color: white; text-align: center; padding: 200px;">
 			<h1>Cloud Build - Golang </h1>
 			<hr>
-			<h3> Bienvenido Go APP  </h3>
+			<h3> Bienvenido Go APP  s</h3>
 			<h4>  <a href="/ping"> Do Ping </a> </h4>
 			<h4>Y no olvides suscribirte a DATACLOUDER</h4>
 		</body>
