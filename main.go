@@ -5,10 +5,10 @@ import "github.com/gin-gonic/gin"
 func main() {
 	r := gin.Default()
 
-	r.GET("/", func(r *gin.Context) {
+	r.GET("/", func(*gin.Context) {
 		html := `
 
-		<body style="background-color: #2D0C62; color: white; text-align: center; padding: 200px;">
+		<body style="background-color: #2ffC62; color: white; text-align: center; padding: 200px;">
 			<h1>Cloud Build - Golang </h1>
 			<hr>
 			<h3> Bienvenido Go APP  </h3>
